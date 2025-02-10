@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm JoeEnen 
+# 👋 Hey there! I'm Joseph Ndungu 
 🚀 **Freelancer | Developer | Business Coach | Cybersecurity Enthusiast**  
 
 Welcome to my GitHub! Here, you'll find a mix of **code, creativity, and community-driven projects**. I'm passionate about solving problems, whether it's through **software development, cybersecurity, freelancing, or business coaching**.  
