@@ -6,7 +6,7 @@ Welcome to my GitHub! Here, you'll find a mix of **code, creativity, and communi
 ---
 
 ## 🔥 About Me  
-- 🎓 **Computer Science & Cybersecurity Enthusiast**  
+- 🎓 **Software Engineer & Cybersecurity Enthusiast**  
 - 💼 **Freelancer with 6+ years of experience** on platforms like Upwork, Fiverr & LinkedIn  
 - 🎯 **Business coach & entrepreneur**—helping underserved communities thrive  
 - 🛡️ **Cybersecurity advocate**—because secure code is the best code!  
