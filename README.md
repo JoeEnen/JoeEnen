@@ -45,4 +45,4 @@ Welcome to my GitHub! Here, you'll find a mix of **code, creativity, and communi
 
 ---
 
-💡 *"Code. Create. Secure. Inspire."* 🚀  
+Code. Create. Secure. Inspire. 
